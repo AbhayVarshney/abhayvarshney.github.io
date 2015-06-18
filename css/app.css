@@ -25,7 +25,7 @@ video#bgvid {
 
 .topHeader {
   position: relative;
-  top: -22%;
+  top: -150px;
   min-height: 85%;
   background: linear-gradient(135deg, #095999, #095999);
   opacity: 0.9;
@@ -36,8 +36,7 @@ video#bgvid {
 .header {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   color: white;
-  position: absolute;
-  top: 100px;
+  text-align: center;
   font-size: 3.35rem;
   animation-delay: 1s;
   -webkit-animation-delay: 1s;
@@ -46,7 +45,6 @@ video#bgvid {
   white-space:nowrap;
 }
   
-@media screen and (max-width: 500px) {  
 /* Font Change for "Welcome, my name is Abhay Varshney"  */
   .topHeader h1 {
     font-family: "Ubuntu", Helvetica, Arial, sans-serif;
@@ -66,8 +64,6 @@ video#bgvid {
         font-size: 3.75rem; 
       } 
     }
-}
-
 /* Font Change for "Welcome" */
 .topHeader p {
     font-family: "Ubuntu", Helvetica, Arial, sans-serif;
