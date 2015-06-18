@@ -25,18 +25,18 @@ video#bgvid {
 
 .topHeader {
   position: relative;
-  top: -150px;
-  min-height: 85%;
+  top: -23%;
+  min-height: 90%;
   background: linear-gradient(135deg, #095999, #095999);
   opacity: 0.9;
   white-space:nowrap;
 }
 
-
 .header {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   color: white;
   text-align: center;
+  position: relative;
   font-size: 3.35rem;
   animation-delay: 1s;
   -webkit-animation-delay: 1s;
