@@ -37,6 +37,12 @@ video#bgvid {
   .topHeader {
     min-height: 1000px;
   }
+  .portfolio {
+    min-height: 70%;
+    background: #ECF0F1;
+    position: relative;
+    top: -150px;
+  }
 }
 
 .header {
