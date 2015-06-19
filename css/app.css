@@ -32,6 +32,7 @@ video#bgvid {
   white-space:nowrap;
 }
 
+
 @media screen and (min-height: 981px){
   .topHeader {
     min-height: 1000px;
@@ -128,6 +129,9 @@ video#bgvid {
 }
 
 /* Hexagons */
+.containerHexagon {
+  text-align: center;
+}
 .hexagon {
   position: relative;
   width: 180px; 
@@ -223,9 +227,7 @@ video#bgvid {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 25px;
   letter-spacing: .1px;
-  position: absolute;
-  top: 25px;
-  left: 552px;
+  text-align: center;
 }
 
 .serviceInformation {
