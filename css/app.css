@@ -139,7 +139,9 @@ video#bgvid {
 
 /* Hexagons */
 .containerHexagon {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .hexagon {
   position: relative;
@@ -356,7 +358,6 @@ video#bgvid {
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 .myIntroduction {
