@@ -139,7 +139,6 @@ video#bgvid {
 
 /* Hexagons */
 .containerHexagon {
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
