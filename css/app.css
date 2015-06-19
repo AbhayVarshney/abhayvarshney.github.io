@@ -24,9 +24,9 @@ video#bgvid {
 }
 
 .topHeader {
-  min-height: 90%;
+  min-height: 750px;
   position: relative;
-  top: -21.95%;
+  top: 0%;
   background: linear-gradient(135deg, #095999, #095999);
   opacity: 0.9;
   white-space:nowrap;
