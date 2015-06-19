@@ -353,9 +353,7 @@ video#bgvid {
 }
 
 .macbook {
-  position: absolute; 
-  top: 230px;
-  left: 213px;
+  text-align: center;
 }
 
 .myIntroduction {
