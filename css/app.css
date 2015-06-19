@@ -353,7 +353,8 @@ video#bgvid {
 }
 
 .macbook {
-  text-align: center;
+  float: center;
+
 }
 
 .myIntroduction {
