@@ -32,6 +32,12 @@ video#bgvid {
   white-space:nowrap;
 }
 
+@media (min-width: 981){
+  .topHeader {
+    min-height: 1000px;
+  }
+}
+
 .header {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   color: white;
