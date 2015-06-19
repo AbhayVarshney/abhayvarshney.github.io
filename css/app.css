@@ -353,8 +353,9 @@ video#bgvid {
 }
 
 .macbook {
-  position: relative;
-  left: 8.12%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
