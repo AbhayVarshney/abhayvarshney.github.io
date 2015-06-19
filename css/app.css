@@ -32,7 +32,7 @@ video#bgvid {
   white-space:nowrap;
 }
 
-@media (min-width: 981){
+@media (min-height: 981){
   .topHeader {
     min-height: 1000px;
   }
