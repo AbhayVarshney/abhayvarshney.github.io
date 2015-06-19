@@ -297,9 +297,15 @@ video#bgvid {
 }
 
 /* List of portfolio itens */
+table.portfolioTable {
+  background-color: transparent;
+  border-color: transparent;
+}
+
 .portfolioTimeM {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
+  padding: 20px;
 }
 
 .portfolioTimeM:hover {
@@ -311,6 +317,7 @@ video#bgvid {
 .portfolioFrogger {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
+  padding: 40px;
 }
 
 .portfolioFrogger:hover {
@@ -322,6 +329,7 @@ video#bgvid {
 .portfolioFlappyBirds {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
+  padding: 30px;
 }
 
 .portfolioFlappyBirds:hover {
@@ -333,7 +341,7 @@ video#bgvid {
 .portfolioSpaceInvaders {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
-
+  padding: 5px;
 }
 
 .portfolioSpaceInvaders:hover {
