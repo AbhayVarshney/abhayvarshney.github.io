@@ -37,9 +37,12 @@ video#bgvid {
   .topHeader {
     min-height: 1000px;
   }
-  .portfolio {
-    min-height: 70%;
-    background: #ECF0F1;
+
+  .contactMe {
+    min-height: 20%;
+    background:;
+    padding: 1.875rem 0.625rem;
+    background-image: url("../img/image1.jpg");
     position: relative;
     top: -150px;
   }
