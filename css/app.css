@@ -353,7 +353,8 @@ video#bgvid {
 }
 
 .macbook {
-  float: center;
+  position: relative;
+  left: 50%;
 
 }
 
@@ -379,9 +380,7 @@ video#bgvid {
   font-size: 25px;
   font-weight: 50;
   letter-spacing: .2px;
-  position: absolute;
-  top: 25px;
-  left: 552px;
+  text-align: center;
 }
 
 .screenShotSlider {
