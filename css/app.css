@@ -59,6 +59,10 @@ video#bgvid {
   .betaButton{
     padding-top: 80px;
   }
+
+  .chooseMe {
+    padding-top: 40px;
+  } 
 }
 
 .header {
