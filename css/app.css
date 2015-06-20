@@ -48,8 +48,8 @@ video#bgvid {
   }
 
   .header{
-    position: relative;
-    top: 80%;
+    color: blue;
+    padding: 0 40px 100px 0;
   }
 }
 
