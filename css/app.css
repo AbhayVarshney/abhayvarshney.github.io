@@ -46,11 +46,9 @@ video#bgvid {
     position: relative;
     top: -150px;
   }
-}
 
-@media screen and (min-height: 900px) {
-    .topMenu li a i {
-  font-size: 44px; }
+  .topMenu li a i {
+  font-size: 3.4em; }
 }
 
 .header {
@@ -437,7 +435,7 @@ table.portfolioTable {
   .topMenu li a.active {
   color: #fff; }
   .topMenu li a i {
-  font-size: 24px; }
+  font-size: 1.4em; }
   .topMenu li a:hover {
   color: #fff; }
   @media only screen and (max-width: 30em) {
