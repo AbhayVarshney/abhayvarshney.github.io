@@ -153,6 +153,13 @@ video#bgvid {
     margin-right: 0.625rem; 
 }
 
+.chooseMe {
+  font-size: 3.5vh; 
+  letter-spacing: 0.5px; 
+  color: #095999; 
+  text-align: center; 
+}
+
 /* Hexagons */
 
 table.hexagonTable {
