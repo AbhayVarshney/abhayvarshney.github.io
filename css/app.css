@@ -63,6 +63,10 @@ video#bgvid {
   .chooseMe {
     padding-top: 20px;
   } 
+  
+  .contactMe {
+    min-height: 20%;
+  }
 }
 
 .header {
