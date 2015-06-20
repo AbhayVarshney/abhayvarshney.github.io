@@ -46,6 +46,11 @@ video#bgvid {
     position: relative;
     top: -150px;
   }
+
+  .header{
+    position: relative;
+    top: 30%;
+  }
 }
 
 .header {
@@ -58,6 +63,8 @@ video#bgvid {
   -moz-webkit-animation-delay: 1s; 
   /*doesn't screw up elements when minimized  */
   white-space:nowrap;
+  position: relative; 
+  top: 20%;
 }
   
 /* Font Change for "Welcome, my name is Abhay Varshney"  */
