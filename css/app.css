@@ -47,6 +47,9 @@ video#bgvid {
     top: -150px;
   }
 
+  .topMenu li a {
+    padding-top: 60px;
+   }
   .header{
     color: blue;
     padding-top: 80px;
