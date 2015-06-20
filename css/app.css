@@ -435,7 +435,7 @@ table.portfolioTable {
   .topMenu li a.active {
   color: #fff; }
   .topMenu li a i {
-  font-size: 1.4em; }
+  font-size: 4.0vh; }
   .topMenu li a:hover {
   color: #fff; }
   @media only screen and (max-width: 30em) {
