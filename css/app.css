@@ -46,16 +46,13 @@ video#bgvid {
     position: relative;
     top: -150px;
   }
-
-  .topMenu li a i {
-  font-size: 3.4em; }
 }
 
 .header {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   color: white;
   text-align: center;
-  font-size: 3.35rem;
+  font-size: 8vh;
   animation-delay: 1s;
   -webkit-animation-delay: 1s;
   -moz-webkit-animation-delay: 1s; 
@@ -435,7 +432,8 @@ table.portfolioTable {
   .topMenu li a.active {
   color: #fff; }
   .topMenu li a i {
-  font-size: 4.0vh; }
+  font-size: 24px;
+  }
   .topMenu li a:hover {
   color: #fff; }
   @media only screen and (max-width: 30em) {
