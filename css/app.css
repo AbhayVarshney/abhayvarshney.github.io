@@ -47,12 +47,16 @@ video#bgvid {
     top: -150px;
   }
 
-  .topMenu li a {
+  .row {
     padding-top: 60px;
    }
   .header{
     color: blue;
     padding-top: 80px;
+  }
+
+  .betaButton{
+    padding-top: 30px;
   }
 }
 
