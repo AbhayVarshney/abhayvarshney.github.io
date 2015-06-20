@@ -106,8 +106,7 @@ video#bgvid {
   display: table;
   margin: 0 auto;
   top: 1.75rem;
-  font-size: 25px;
-  font-size: 1.4rem;
+  font-size: 4vh;
   animation-delay: 8s;
   -webkit-animation-delay: 3s;
   -moz-webkit-animation-delay: 3s;
