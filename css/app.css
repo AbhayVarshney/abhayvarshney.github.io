@@ -138,10 +138,12 @@ video#bgvid {
 }
 
 /* Hexagons */
-.containerHexagon {
-  margin-left: auto;
-  margin-right: auto;
+
+table.hexagonTable {
+  background-color: transparent;
+  border-color:none;
 }
+
 .hexagon {
   position: relative;
   width: 180px; 
