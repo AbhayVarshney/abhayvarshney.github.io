@@ -50,9 +50,10 @@ video#bgvid {
   .row {
     padding-top: 60px;
    }
+   
   .header{
     color: blue;
-    padding-top: 80px;
+    padding-top: 60px;
   }
 
   .betaButton{
