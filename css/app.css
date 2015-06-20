@@ -264,7 +264,7 @@ table.hexagonTable {
 .myServices p {
   color: white;
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 25px;
+  font-size: 3.8vh;
   letter-spacing: .1px;
   text-align: center;
 }
