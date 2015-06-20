@@ -32,11 +32,14 @@ video#bgvid {
   white-space:nowrap;
 }
 
-
-@media screen and (min-height: 981px){
+/*Big Sized Computers Size 5*/
+@media screen and (min-height: 900px){
   .topHeader {
     min-height: 1000px;
   }
+
+  .topMenu li a i {
+  font-size: 44px; }
 
   .contactMe {
     min-height: 10%;
@@ -79,11 +82,11 @@ video#bgvid {
       font-size: 3.75rem; 
     } 
   }
-/* Font Change for "Welcome" */
+/* Font Change for "A teen entreprenuer" */
 .topHeader p {
     font-family: "Ubuntu", Helvetica, Arial, sans-serif;
     text-align: center;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255,255,255, 0.5);
     animation-delay: 2s;
     -webkit-animation-delay: 2s;
     -moz-webkit-animation-delay: 2s;
@@ -432,8 +435,7 @@ table.portfolioTable {
   .topMenu li a.active {
   color: #fff; }
   .topMenu li a i {
-  font-size: 24px;
-  font-size: 1.5rem; }
+  font-size: 24px; }
   .topMenu li a:hover {
   color: #fff; }
   @media only screen and (max-width: 30em) {
@@ -442,7 +444,8 @@ table.portfolioTable {
   font-size: 0.875rem; }
   .topMenu li i {
   font-size: 18px;
-  font-size: 1.125rem; } 
+  font-size: 1.125rem; 
+  } 
 }
 
 .bottomFooter {
