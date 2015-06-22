@@ -362,7 +362,7 @@ table.portfolioTable {
 
 .portfolioFlappyBirds {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
 
 }
 
@@ -374,7 +374,7 @@ table.portfolioTable {
 
 .portfolioSpaceInvaders {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
 }
 
 .portfolioSpaceInvaders:hover {
@@ -385,7 +385,7 @@ table.portfolioTable {
 
 .portfolioImageManipulation {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
   padding-left: 60px;
 }
 
