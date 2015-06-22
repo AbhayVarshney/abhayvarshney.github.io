@@ -325,7 +325,7 @@ table.hexagonTable {
 .portfolioText{
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   background: none;
-  font-size: 2.3rem;
+  font-size: 5.5vh;
   text-align: center;
 }
 
@@ -337,7 +337,7 @@ table.portfolioTable {
 
 .portfolioTimeM {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 4vh;
   padding: 20px;
 
 }
@@ -350,7 +350,7 @@ table.portfolioTable {
 
 .portfolioFrogger {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 4vh;
 
 }
 
@@ -362,7 +362,7 @@ table.portfolioTable {
 
 .portfolioFlappyBirds {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 4vh;
 
 }
 
@@ -374,8 +374,7 @@ table.portfolioTable {
 
 .portfolioSpaceInvaders {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
-
+  font-size: 4vh;
 }
 
 .portfolioSpaceInvaders:hover {
@@ -386,7 +385,8 @@ table.portfolioTable {
 
 .portfolioImageManipulation {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 4vh;
+  padding-left: 60px;
 }
 
 .portfolioImageManipulation:hover {
@@ -420,7 +420,7 @@ table.portfolioTable {
 .myStory p {
   color: white;
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 25px;
+  font-size: 4vh;
   font-weight: 50;
   letter-spacing: .2px;
   text-align: center;
@@ -623,12 +623,12 @@ table.portfolioTable {
 }
 
 .rightsReserved {
-  font-size: 12px;
+  font-size: 1vh;
   font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: rgb(104,104,104);
   position: absolute;
   top: 65%;
-  left: 65.5%;
+  left: 55%;
 }
 
 div.vertical-line{
