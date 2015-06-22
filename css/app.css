@@ -67,6 +67,10 @@ video#bgvid {
   .contactMe {
     min-height: 20%;
   }
+
+  .portfolio {
+    min-height: 70%;
+  }
 }
 
 .header {
