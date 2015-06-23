@@ -78,7 +78,7 @@ video#bgvid {
   }
 
   .portfolio {
-    height: 80em;  
+    max-height: 80%;  
   }
 }
 
