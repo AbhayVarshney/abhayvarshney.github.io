@@ -390,7 +390,7 @@ table.portfolioTable {
 .portfolioImageManipulation {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-size: 3.5vh;
-  padding-left: 60px;
+  padding-left: 40px;
 }
 
 .portfolioImageManipulation:hover {
@@ -627,12 +627,13 @@ table.portfolioTable {
 }
 
 .rightsReserved {
-  font-size: 1vh;
+  font-size: 1.7vh;
   font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: rgb(104,104,104);
   position: absolute;
   top: 65%;
   left: 55%;
+  padding-left: 11%;
 }
 
 div.vertical-line{
