@@ -76,6 +76,10 @@ video#bgvid {
     width: 40%;
     height: 30%;
   }
+
+  .portfolio {
+    height: 80%;  
+  }
 }
 
 .header {
@@ -652,9 +656,9 @@ div.vertical-line{
 }
 
 img.abhayvarshneyLogoIcon {
-  position: absolute; 
-  top: 7%; 
-  left: 8%; 
+  position: relative;
+  top: 30px;
+  left: 10%; 
   width: 550px; 
   height: 185px;
 }
