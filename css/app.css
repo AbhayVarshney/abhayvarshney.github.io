@@ -651,4 +651,10 @@ div.vertical-line{
   top: 22%;
 }
 
-
+img.abhayvarshneyLogoIcon {
+  position: absolute; 
+  top: 7%; 
+  left: 8%; 
+  width: 550px; 
+  height: 185px;
+}
