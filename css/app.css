@@ -80,6 +80,10 @@ video#bgvid {
   .portfolio {
     padding-bottom: 50%; 
   }
+
+  .contactMeButton{
+    padding: 10%;
+  }
 }
 
 .header {
@@ -296,9 +300,8 @@ table.hexagonTable {
 
 /* Contact Me part */
 .contactMe {
-  min-height: 40%;
   background:;
-  padding: 1.875rem 0.625rem;
+  padding: 3%;
   background-image: url("../img/image1.jpg");
   position: relative;
   top: -150px;
@@ -307,6 +310,7 @@ table.hexagonTable {
 .contactMeButtonDiv{
   text-align: center;
   vertical-align: middle;
+  padding-bottom: 5%;
 }
 
 .contactMeButton {
