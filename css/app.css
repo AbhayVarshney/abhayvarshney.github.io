@@ -73,7 +73,7 @@ video#bgvid {
   }
 
   .abhayvarshneyLogoIcon {
-    width: 20%;
+    width: 40%;
   }
 }
 
@@ -631,13 +631,13 @@ table.portfolioTable {
 }
 
 .rightsReserved {
-  font-size: 2vh;
+  font-size: 1.7vh;
   font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: rgb(104,104,104);
   position: absolute;
   top: 65%;
   left: 55%;
-  padding-left: 9.3%;
+  padding-left: 11%;
 }
 
 div.vertical-line{
