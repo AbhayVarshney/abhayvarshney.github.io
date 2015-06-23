@@ -70,6 +70,7 @@ video#bgvid {
 
   .macbook {
     width: 80%;
+    padding-bottom: 10%;
   }
 
   .abhayvarshneyLogoIcon {
@@ -332,7 +333,7 @@ table.hexagonTable {
   background: #ECF0F1;
   position: relative;
   top: -150px;
-  padding-bottom: 6%;
+  padding-bottom: 5%;
 }
 
 .portfolioText{
