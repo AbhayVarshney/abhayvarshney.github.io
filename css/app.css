@@ -78,7 +78,7 @@ video#bgvid {
   }
 
   .portfolio {
-    max-height: 80%;  
+    height: 80%;  
   }
 }
 
@@ -329,10 +329,10 @@ table.hexagonTable {
 }
 
 .portfolio {
-  min-height: 125%;
   background: #ECF0F1;
   position: relative;
   top: -150px;
+  padding-bottom: 6%;
 }
 
 .portfolioText{
