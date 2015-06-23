@@ -84,6 +84,9 @@ video#bgvid {
   .contactMe{
     padding: 1%;
   }
+  .contactMeButton {
+    padding-bottom: 4% ;
+  }
 }
 
 .header {
