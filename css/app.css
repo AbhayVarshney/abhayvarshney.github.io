@@ -71,6 +71,10 @@ video#bgvid {
   .macbook {
     width: 80%;
   }
+
+  .abhayvarshneyLogoIcon {
+    width: 20%;
+  }
 }
 
 .header {
@@ -627,7 +631,7 @@ table.portfolioTable {
 }
 
 .rightsReserved {
-  font-size: 1.7vh;
+  font-size: 4vh;
   font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: rgb(104,104,104);
   position: absolute;
