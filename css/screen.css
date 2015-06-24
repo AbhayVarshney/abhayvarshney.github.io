@@ -78,7 +78,7 @@
 #keys #KeyLeft:after { border-top:4px solid transparent; border-bottom:4px solid transparent; border-right:4px solid #211016; top:5px; left:6px; }
 
 /* slides --------------- */
-#slides { top:0%; bottom:270px; position:absolute; left:10%; right:10%; opacity:0; visibility:hidden top: 100%;
+#slides { top:0%; bottom:270px; position:relative; left:10%; right:10%; opacity:0; visibility:hidden top: 100%;
 	-webkit-transition:bottom .5s ease-in-out, opacity .5s ease-in-out, top .5s ease-in-out, -webkit-filter .5s ease-in-out;
 	-moz-transition:bottom .5s ease-in-out, opacity .5s ease-in-out, top .5s ease-in-out, -moz-filter .5s ease-in-out;
 	-ms-transition:bottom .5s ease-in-out, opacity .5s ease-in-out, top .5s ease-in-out, -ms-filter .5s ease-in-out;
