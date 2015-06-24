@@ -280,6 +280,7 @@ table.hexagonTable {
   padding: 1.875rem 0.625rem;
   position: relative;
   top: -150px;
+  white-space:nowrap;
 }
 
 .myServices p {
@@ -288,6 +289,7 @@ table.hexagonTable {
   font-size: 3.8vh;
   letter-spacing: .1px;
   text-align: center;
+  white-space:nowrap;
 }
 
 .serviceInformation {

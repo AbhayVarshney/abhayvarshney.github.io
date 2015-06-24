@@ -1,4 +1,3 @@
-
 @media screen and (max-width: 555px), screen and (max-device-width: 1024px) {
 
 	/* keys ------------------*/
@@ -18,9 +17,6 @@
 	#about { display:none; }
 	#about-pane { display:none; }
 
-	/* slide trigger ------------------
-	#slides .slide-trigger { position:fixed !important; right:8px !important; bottom:-22px !important; font-size:15px; }
-	*/
 	#slides .slide-trigger { display:none !important; }
 
 	/* date ------------------*/
@@ -30,7 +26,7 @@
 
 
 /* All of mobile */
-@media screen and (max-device-width:480px) {
+@media screen and (max-device-width: 480px) {
 	/* slides --------------- */
 	#slides { z-index:600; position:relative; left:auto; right:auto; top:auto; bottom:auto; }
 
