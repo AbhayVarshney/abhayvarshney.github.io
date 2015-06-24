@@ -73,8 +73,8 @@ video#bgvid {
   }
 
   .abhayvarshneyLogoIcon {
-    width: 40%;
-    height: 30%;
+    max-width: 40%;
+    max-height: 30%;
   }
 
   .portfolio {
@@ -649,6 +649,7 @@ table.portfolioTable {
   top: 65%;
   left: 55%;
   padding-left: 11%;
+  white-space:nowrap;
 }
 
 div.vertical-line{
@@ -667,4 +668,5 @@ img.abhayvarshneyLogoIcon {
   left: 10%; 
   width: 550px; 
   height: 185px;
+  white-space:nowrap;
 }
