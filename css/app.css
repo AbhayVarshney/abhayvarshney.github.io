@@ -356,7 +356,7 @@ table.portfolioTable {
 
 .portfolioTimeM {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
   padding: 20px;
 
 }
@@ -369,8 +369,8 @@ table.portfolioTable {
 
 .portfolioFrogger {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
-  padding-left: 25px;
+  font-size: 3.5vh;
+  padding-left: 30px;
 }
 
 .portfolioFrogger:hover {
@@ -381,7 +381,7 @@ table.portfolioTable {
 
 .portfolioFlappyBirds {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
 
 }
 
@@ -393,7 +393,7 @@ table.portfolioTable {
 
 .portfolioSpaceInvaders {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
 }
 
 .portfolioSpaceInvaders:hover {
@@ -404,7 +404,7 @@ table.portfolioTable {
 
 .portfolioImageManipulation {
   font-family: "Ubuntu", Helvetica, Arial, sans-serif;
-  font-size: 4vh;
+  font-size: 3.5vh;
 }
 
 .portfolioImageManipulation:hover {
@@ -669,3 +669,40 @@ img.abhayvarshneyLogoIcon {
   height: 185px;
   white-space:nowrap;
 }
+
+/* MacBook Pictures */
+#timemPicture {
+  width: 51.75%;
+  position: relative;
+  top: -478px;
+  left: 24.3%;
+} 
+
+#flappyBirdsPicture {
+  width: 51.75%;
+  position: relative;
+  top: -478px;
+  left: 24.3%;
+}
+
+#froggerPicture {
+  width: 51.75%;
+  position: relative;
+  top: -478px;
+  left: 24.3%;
+}
+
+#imageFilterPicture {
+  width: 51.75%;
+  position: relative;
+  top: -478px;
+  left: 24.3%;
+}
+
+#spaceInvadersPicture {
+  width: 51.75%;
+  position: relative;
+  top: -478px;
+  left: 24.3%;
+}
+

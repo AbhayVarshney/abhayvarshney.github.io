@@ -163,16 +163,28 @@
             <div class="animated flipInY portfolioText"><strong> <center> PORTFOLIO <center> </strong></div> <br/>
             <table class="portfolioTable" style="width:80%; position: relative; left: 12.3%">
               <tr>
-                <td class="animated flipInY portfolioTimeM">TimeM</td>   
-                <td class="animated flipInY portfolioFlappyBirds">Flappy Birds</td>
-                <td class="animated flipInY portfolioFrogger">Frogger</td>  
-                <td class="animated flipInY portfolioImageManipulation"> Image Filter </td>
-                <td class="animated flipInY portfolioSpaceInvaders">Space Invaders</td>
+                <td class="animated flipInY portfolioTimeM" onclick="show('TimeM')">TimeM</td>   
+                <td class="animated flipInY portfolioFlappyBirds" onclick="show('flappyBirds')">Flappy Birds</td>
+                <td class="animated flipInY portfolioFrogger" onclick="show('frogger')">Frogger</td>  
+                <td class="animated flipInY portfolioImageManipulation" onclick="show('imageFilter')"> Image Filter </td>
+                <td class="animated flipInY portfolioSpaceInvaders" onclick="show('spaceInvaders')">Space Invaders</td>
               </tr>
             </table>
             <div class="macbook">
                 <br/>
                 <img class="macbook" src="img/macbook.png"></img>
+                <!-- Images on the macbook -->
+                <img id="timemPicture" style="display:none" src="img/timem.png"></img>
+                <!-- NEED TO FIX TIMEM WEBSITE TO MAKE THIS WORK. -->
+                <!--<iframe id="timemPicture" style="display:none; height: 352px;" src="http://timem-teamsnap.rhcloud.com/landingpage.html">
+                  <p>Your browser does not support iframes.</p>
+                </iframe> -->
+            
+
+                <img id="flappyBirdsPicture" style="display:none" src="img/flappy_birds.png"></img>
+                <img id="froggerPicture" style="display:none" src="img/frogger.png"></img>
+                <img id="imageFilterPicture" style="display:none" src="img/image_manipulation.png"></img>
+                <img id="spaceInvadersPicture" style="display:none" src="img/space_invaders.png"></img>
             </div>
         </section>
         <section class="myStory">
