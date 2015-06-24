@@ -20,9 +20,9 @@
 	transition:bottom .5s ease-in-out;
 }
 #track.adjusted { bottom:330px; }
-#track:before { content:''; position:absolute; top:25px; left:160px; right:131px; height:10px; background-color:#fff; background-color:rgba(40,40,40,.15); }
-#track:after { content:''; position:absolute; top:25px; right:0; width:60px; height:10px; background-color:#fff; background-color:rgba(0,0,0,.15); }
-#ticker-moment { position:absolute; max-width:50px; top:-8px; left:60px; line-height:2em; text-align:center; font-size:19px; color:#999; color:rgba(255,255,255,.4); text-decoration:none; font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif; font-weight:300;
+#track:before { content:''; position:absolute; top:25px; left:160px; right:131px; height:10px; background-color:#fff; background-color:rgba(255,255,255,0); }
+#track:after { content:''; position:absolute; top:25px; right:0; width:60px; height:10px; background-color:#fff; background-color:rgba(255,255,255,0); }
+#ticker-moment { position:absolute; max-width:50px; top:-8px; left:60px; line-height:2em; text-align:center; font-size:19px; color:#999; color:rgba(255,255,255,0); text-decoration:none; font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif; font-weight:300;
 	-webkit-transition:left .3s ease-in-out;
 	-moz-transition:left .3s ease-in-out;
 	-ms-transition:left .3s ease-in-out;
