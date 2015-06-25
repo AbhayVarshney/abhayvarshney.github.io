@@ -672,35 +672,35 @@ img.abhayvarshneyLogoIcon {
 
 /* MacBook Pictures */
 #timemPicture {
-  width: 51.75%;
+  max-width: 51.75%;
   position: relative;
   top: -478px;
   left: 24.3%;
 } 
 
 #flappyBirdsPicture {
-  width: 51.75%;
+  max-width: 51.75%;
   position: relative;
   top: -478px;
   left: 24.3%;
 }
 
 #froggerPicture {
-  width: 51.75%;
+  max-width: 51.75%;
   position: relative;
   top: -478px;
   left: 24.3%;
 }
 
 #imageFilterPicture {
-  width: 51.75%;
+  max-width: 51.75%;
   position: relative;
   top: -478px;
   left: 24.3%;
 }
 
 #spaceInvadersPicture {
-  width: 51.75%;
+  max-width: 51.75%;
   position: relative;
   top: -478px;
   left: 24.3%;
