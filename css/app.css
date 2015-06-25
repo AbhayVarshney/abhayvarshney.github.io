@@ -665,8 +665,7 @@ img.abhayvarshneyLogoIcon {
   position: relative;
   top: 30px;
   left: 10%; 
-  width: 550px; 
-  height: 185px;
+  min-width: 40%; 
   white-space:nowrap;
 }
 
