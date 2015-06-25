@@ -84,6 +84,41 @@ video#bgvid {
   .contactMe{
     padding: 1%;
   }
+
+  #timemPicture {
+    position: absolute;
+    width: 60%;
+  } 
+
+  #flappyBirdsPicture {
+    max-width: 51.75%;
+    position: relative;
+    top: -478px;
+    left: 24.3%;
+  }
+
+  #froggerPicture {
+    max-width: 51.75%;
+    position: relative;
+    top: -478px;
+    left: 24.3%;
+  }
+
+  #imageFilterPicture {
+    max-width: 51.75%;
+    position: relative;
+    top: -478px;
+    left: 24.3%;
+  }
+
+  #spaceInvadersPicture {
+    max-width: 51.75%;
+    position: relative;
+    top: -478px;
+    left: 24.3%;
+  }
+
+
 }
 
 .header {
@@ -673,7 +708,9 @@ img.abhayvarshneyLogoIcon {
 #parentTimemPicture {
   position: relative;
   left: 25.5%;
-  bottom: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #timemPicture {
