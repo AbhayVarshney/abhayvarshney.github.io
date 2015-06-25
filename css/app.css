@@ -87,7 +87,7 @@ video#bgvid {
 
   #timemPicture {
     position: absolute;
-    width: 60%;
+    width: 75%;
   } 
 
   #flappyBirdsPicture {
@@ -117,8 +117,6 @@ video#bgvid {
     top: -478px;
     left: 24.3%;
   }
-
-
 }
 
 .header {
