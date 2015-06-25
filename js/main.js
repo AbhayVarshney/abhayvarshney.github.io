@@ -25,5 +25,6 @@ function show(target){
 	} else if (target == "spaceInvaders") {
 		document.getElementById("spaceInvadersPicture").style.display = "";
 	} else { 
+		//do nothing
 	}
 }
