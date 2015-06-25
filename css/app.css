@@ -670,11 +670,14 @@ img.abhayvarshneyLogoIcon {
 }
 
 /* MacBook Pictures */
-#timemPicture {
-  max-width: 51.75%;
+#parentTimemPicture {
   position: relative;
-  top: -478px;
-  left: 24.3%;
+  left: 30%;
+}
+
+#timemPicture {
+  position: absolute;
+  width: 50%;
 } 
 
 #flappyBirdsPicture {
