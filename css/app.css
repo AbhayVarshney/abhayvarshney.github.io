@@ -537,14 +537,15 @@ table.portfolioTable {
   padding: 1.25rem 0;
   opacity: 0.95;
 }
-  .bottomFooter p {
-    color: #Fff;
-    text-align: center;
-    font-size: 42px; 
-    word-spacing: 3px;
-    font-weight: 300;
-    opacity: .85;
-  }
+
+.bottomFooter p {
+  color: #Fff;
+  text-align: center;
+  font-size: 42px; 
+  word-spacing: 3px;
+  font-weight: 300;
+  opacity: .85;
+}
 
 @media only screen and (max-width: 30em) {
   #iphone5s.gold .device {
@@ -705,19 +706,14 @@ img.abhayvarshneyLogoIcon {
   white-space:nowrap;
 }
 
-/* MacBook Pictures */
+/*positioning all the images */
 #parentTimemPicture {
-  position: relative;
-  left: 25.5%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
 }
 
 #timemPicture {
-  position: absolute;
   width: 50%;
-} 
+}
 
 #flappyBirdsPicture {
   max-width: 51.75%;
