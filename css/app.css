@@ -707,19 +707,12 @@ img.abhayvarshneyLogoIcon {
 }
 
 /*positioning all the images */
-#parentTimemPicture {
-  text-align: center;
-}
-
-#timemPicture {
-  width: 50%;
-}
 
 #flappyBirdsPicture {
-  max-width: 51.75%;
+  min-width: 105%;
   position: relative;
   top: -478px;
-  left: 24.3%;
+  left: 16.3%;
 }
 
 #froggerPicture {
@@ -742,4 +735,3 @@ img.abhayvarshneyLogoIcon {
   top: -478px;
   left: 24.3%;
 }
-
