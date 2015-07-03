@@ -579,4 +579,77 @@ fieldset[disabled] .btn-link:focus {
   }
 }
 
+/* Portfolio text */
+
+.portfolioText{
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  background: none;
+  font-size: 5.5vh;
+  text-align: center;
+}
+
+/* List of portfolio itens */
+table.portfolioTable {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.portfolioTimeM {
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  font-size: 4vh;
+  padding: 20px;
+
+}
+
+.portfolioTimeM:hover {
+  -webkit-transition: .5s;
+  color: #095999;
+  text-decoration: underline;
+}
+
+.portfolioFrogger {
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  font-size: 4vh;
+  padding-left: 30px;
+}
+
+.portfolioFrogger:hover {
+  -webkit-transition: .5s;
+  color: #095999;
+  text-decoration: underline;
+}
+
+.portfolioFlappyBirds {
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  font-size: 4vh;
+}
+
+.portfolioFlappyBirds:hover {
+  -webkit-transition: .5s;
+  color: #095999;
+  text-decoration: underline;
+}
+
+.portfolioSpaceInvaders {
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  font-size: 4vh;
+}
+
+.portfolioSpaceInvaders:hover {
+  -webkit-transition: .5s;
+  color: #095999;
+  text-decoration: underline;
+}
+
+.portfolioImageManipulation {
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+  font-size: 4vh;
+}
+
+.portfolioImageManipulation:hover {
+  -webkit-transition: .5s;
+  color: #095999;
+  text-decoration: underline;
+}
+
 
