@@ -340,7 +340,6 @@
 		}
 	};
 
-	/* paths ----------------*/
 	MARTY.paths = {
 		split: function() {
 			return window.location.pathname.split('/');
@@ -350,7 +349,6 @@
 		}
 	};
 
-	/* dat shit cray -----------------  */
 	$(MARTY.init);
 	$window.resize(MARTY.events.onResize);
 	window.onpopstate = function() {
