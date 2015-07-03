@@ -567,3 +567,16 @@ fieldset[disabled] .btn-link:focus {
     right: 0;
   }
 }
+
+@media screen and (min-height: 950px){
+  .kineoworks-laptop {
+    background-image: url(img/slider-laptop/laptop.png);
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 1050px;
+    margin: 0 auto;
+    padding: 26px 0px 0px 135px;
+  }
+}
+
+
