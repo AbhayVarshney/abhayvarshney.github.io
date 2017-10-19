@@ -1,0 +1,7 @@
+{
+  "name": "abhayvarshney.github.io",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-mandrill": "^1.0.1"
+  }
+}
